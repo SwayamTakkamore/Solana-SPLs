@@ -1,0 +1,10 @@
+{
+  "name": "VoidRoot",
+  "symbol": "VR",
+  "description": "The official Voidroot SPL Token by Swayam Takkamore.",
+  "image": "https://YOUR_LOGO_LINK_HERE.png",
+  "attributes": [
+    { "trait_type": "Creator", "value": "Swayam Takkamore" },
+    { "trait_type": "Symbol", "value": "VR" }
+  ]
+}
